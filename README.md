@@ -34,7 +34,9 @@ This project is created for learning, exam preparation, and interview revision t
 
 How to Run
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py runserver
 
 Conclusion
